@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  CListPad.cpp
+  CLONG_PTR.cpp
+  CMMCCtrl.cpp
+  CMMCCtrlEvent.cpp
+  CMMCDisplayObject.cpp
+  CMMCListPadInfo.cpp
+  CMMCTask.cpp
+  COCX5.cpp
+  CSysColorCtrl.cpp
+  CSysColorEvents.cpp
+  CWMP.cpp
+  KatelyaPlayer.cpp
+  KatelyaPlayerDlg.cpp
+  MFCClass.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 246 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  KatelyaPlayer.vcxproj -> C:\Users\kkk\Desktop\KatelyaPlayer1.0\KatelyaPlayer\Release\KatelyaPlayer.exe
