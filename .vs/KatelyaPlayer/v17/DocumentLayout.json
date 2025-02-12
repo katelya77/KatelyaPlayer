@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayerDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|solutionrelative:KatelyaPlayerDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayerDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|solutionrelative:KatelyaPlayerDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|solutionrelative:pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|solutionrelative:KatelyaPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|solutionrelative:framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|solutionrelative:pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|solutionrelative:KatelyaPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayer.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 $(  \u0022     ",
+      "RelativeMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|solutionrelative:KatelyaPlayer.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 $(  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\CSysColorEvents.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|solutionrelative:CSysColorEvents.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\MFCClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|solutionrelative:MFCClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\CWMP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|solutionrelative:CWMP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72456472-E6AF-4AE7-9F4F-4BA486B1ED8B}|KatelyaPlayer.vcxproj|solutionrelative:targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CSysColorEvents.h",
+              "DocumentMoniker": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\CSysColorEvents.h",
+              "RelativeDocumentMoniker": "CSysColorEvents.h",
+              "ToolTip": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\CSysColorEvents.h",
+              "RelativeToolTip": "CSysColorEvents.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-12T03:17:12.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CWMP.h",
+              "DocumentMoniker": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\CWMP.h",
+              "RelativeDocumentMoniker": "CWMP.h",
+              "ToolTip": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\CWMP.h",
+              "RelativeToolTip": "CWMP.h",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T14:13:16.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MFCClass.h",
+              "DocumentMoniker": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\MFCClass.h",
+              "RelativeDocumentMoniker": "MFCClass.h",
+              "ToolTip": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\MFCClass.h",
+              "RelativeToolTip": "MFCClass.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T13:35:14.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\framework.h",
+              "RelativeDocumentMoniker": "framework.h",
+              "ToolTip": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\framework.h",
+              "RelativeToolTip": "framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:30:40.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KatelyaPlayer.h",
+              "DocumentMoniker": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayer.h",
+              "RelativeDocumentMoniker": "KatelyaPlayer.h",
+              "ToolTip": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayer.h",
+              "RelativeToolTip": "KatelyaPlayer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:30:39.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KatelyaPlayerDlg.h",
+              "DocumentMoniker": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayerDlg.h",
+              "RelativeDocumentMoniker": "KatelyaPlayerDlg.h",
+              "ToolTip": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayerDlg.h",
+              "RelativeToolTip": "KatelyaPlayerDlg.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:30:38.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\pch.h",
+              "RelativeDocumentMoniker": "pch.h",
+              "ToolTip": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\pch.h",
+              "RelativeToolTip": "pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:30:38.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KatelyaPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayer.cpp",
+              "RelativeDocumentMoniker": "KatelyaPlayer.cpp",
+              "ToolTip": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayer.cpp",
+              "RelativeToolTip": "KatelyaPlayer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:29:39.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KatelyaPlayerDlg.cpp",
+              "DocumentMoniker": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayerDlg.cpp",
+              "RelativeDocumentMoniker": "KatelyaPlayerDlg.cpp",
+              "ToolTip": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayerDlg.cpp",
+              "RelativeToolTip": "KatelyaPlayerDlg.cpp",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAgwMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:30:29.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\pch.cpp",
+              "RelativeDocumentMoniker": "pch.cpp",
+              "ToolTip": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\pch.cpp",
+              "RelativeToolTip": "pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T11:30:30.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KatelyaPlayer.rc - IDD_KATELYAPLAYER_DIALOG - Dialog",
+              "DocumentMoniker": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayer.rc",
+              "RelativeDocumentMoniker": "KatelyaPlayer.rc",
+              "ToolTip": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\KatelyaPlayer.rc - IDD_KATELYAPLAYER_DIALOG - Dialog",
+              "RelativeToolTip": "KatelyaPlayer.rc - IDD_KATELYAPLAYER_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-12T05:05:46.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "targetver.h",
+              "DocumentMoniker": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\targetver.h",
+              "RelativeDocumentMoniker": "targetver.h",
+              "ToolTip": "C:\\Users\\kkk\\Desktop\\KatelyaPlayer1.0\\KatelyaPlayer\\targetver.h",
+              "RelativeToolTip": "targetver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-11T11:30:37.165Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
